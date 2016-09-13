@@ -2,7 +2,9 @@
 title: "git_01"
 author: "Math_116 Vianney Mangyao"
 date: "Fall semester"
-output: html_document
+output:
+  html_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -26,6 +28,7 @@ Beware the Jubjub bird, and shun
       
 
 ## Second Verse
+
 <Put the first two verses of The Road Not Taken by Robert Frost here>
 
 Two roads diverged in a yellow wood,  
